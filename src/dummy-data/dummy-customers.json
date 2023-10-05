@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "101",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "address": "123 Main Street"
+  },
+  {
+    "_id": "102",
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "address": "456 Elm Street"
+  },
+  {
+    "_id": "103",
+    "name": "Bob Johnson",
+    "email": "bob@example.com",
+    "address": "789 Oak Avenue"
+  }
+]

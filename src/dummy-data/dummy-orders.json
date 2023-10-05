@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "201",
+    "customerId": "101",
+    "productId": "1",
+    "quantity": 3,
+    "total": 62.97
+  },
+  {
+    "_id": "202",
+    "customerId": "102",
+    "productId": "2",
+    "quantity": 5,
+    "total": 77.45
+  },
+  {
+    "_id": "203",
+    "customerId": "103",
+    "productId": "3",
+    "quantity": 2,
+    "total": 61.98
+  },
+  {
+    "_id": "204",
+    "customerId": "101",
+    "productId": "2",
+    "quantity": 2,
+    "total": 30.98
+  }
+]
